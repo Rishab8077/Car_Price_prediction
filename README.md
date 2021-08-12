@@ -1,7 +1,7 @@
 # Car_Price_prediction
 ## Summary
 I have tried to create end to end Artifical Intelligence application with Machine Learning using python. The dataset used in this project was taken from Kaggle (link: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho).<br />
-Machine Learning Algorithm used to predict the price is RandomForestRegressor and to build up web-application Flask was used.<br />
+Machine Learning Algorithm used to predict the price was RandomForestRegressor and to build up web-application Flask was used.<br />
 <b>Libraries used</b> :- Pandas, Numpy, Seaborn, Sklearn, Jupyter notebook and others.<br />
 <b>IDE-</b> Pycharm<br />
 <b>Python version -</b> 3.9.2<br />
